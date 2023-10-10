@@ -1,0 +1,7 @@
+GET http://localhost:8000/stocks
+
+###
+GET http://localhost:8000/stocks/2
+
+###
+DELETE http://localhost:3000/api/stocks/1
